@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+I have built this website as an external project to explore the Ruby on Rails framework.
+I have used bootstrap to style the pages and give it a clean and crisp UI. 
 
-Things you may want to cover:
+The website makes use of Rails 7 and Bootstrap v5.2. 
 
-* Ruby version
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
